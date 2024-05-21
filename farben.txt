@@ -1,4 +1,4 @@
 rot
-braun
+blau
 gelb
 schwarz
